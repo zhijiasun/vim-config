@@ -1,1 +1,1 @@
-My VIM configuration
+### 我的vim配置脚本
